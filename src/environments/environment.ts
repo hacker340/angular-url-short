@@ -4,7 +4,9 @@
 
 export const environment = {
   production: false,
-  hostV1: 'http://localhost:4000',
+  // hostV1: 'http://localhost:4000',
+  hostV1: 'https://node-url-shorten.herokuapp.com',
+
 };
 
 /*
